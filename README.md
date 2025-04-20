@@ -1,2 +1,2 @@
 # Myportfolio
-A website showinf my skilss
+A website showing my skilss
